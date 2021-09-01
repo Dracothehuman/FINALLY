@@ -1,0 +1,73 @@
+body {
+    text-align: center;
+}
+
+.preview img {
+    height: 200px;
+    width: 200px;
+}
+img {
+    height:200px;
+    width:200px;
+}
+#Godzilla{
+    height:200px;
+    width:200px;
+}
+#Mothra{
+    height:200px;
+    width:200px;
+}
+#Gidorah{
+    height:200px;
+    width:200px;
+}
+#Rodan{
+    height:200px;
+    width:200px;
+}
+#myCarousel{
+    background-color:red;
+}
+#myCarousel img{
+    height:300px;
+    margin-top:10px;
+}
+.carousel-inner p{
+    font-size:16px;
+    color:darkblue;
+    margin-top:6px;
+    margin-bottom:9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
